@@ -1,0 +1,5 @@
+C:\Users\123\OneDrive\Рабочий стол\winform\Winform\Winform\x64\Debug\Winform.vcxproj.AssemblyReference.cache
+C:\Users\123\OneDrive\Рабочий стол\winform\Winform\Winform\x64\Debug\Winform.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\123\OneDrive\Рабочий стол\winform\Winform\Winform\x64\Debug\Winform.mainFrom.resources
+C:\Users\123\OneDrive\Рабочий стол\winform\Winform\Winform\x64\Debug\Winform.vcxproj.GenerateResource.cache
+C:\Users\123\OneDrive\Рабочий стол\winform\Winform\Winform\x64\Debug\Winform.MyForm.resources
